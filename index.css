@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+.About {
+    position: relative;
+    left: 0px;
+    background-color: lightcyan;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.Projects {
+    position: relative;
+    left: 750px;
+    text-decoration: none;
+    color: black;
+}
+
+.Tutorials {
+    position: relative;
+    left: 1530px;
+    text-decoration: none;
+    color: black;
+}
+
+.image_text {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.yt-channel {
+   position: absolute;
+   left: 47%;
+}
